@@ -1,0 +1,24 @@
+#search-panel {
+	margin: 1rem;
+	text-align: center;
+}
+
+#search-results {
+	margin: 0;
+	padding: 0;
+	list-style-type: none;
+	display: flex;
+	flex-flow: row wrap;
+	justify-content: space-around;
+}
+
+.search-results {
+	width: 300px;
+	text-align: center;
+	text-overflow: ellipsis;
+}
+
+.search-result-poster {
+	width: 200px;
+	height: 300px;
+}

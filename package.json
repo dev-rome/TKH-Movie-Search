@@ -1,0 +1,19 @@
+{
+  "name": "tkh-movie-search",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.5"
+  },
+  "dependencies": {
+    "axios": "^0.24.0",
+    "dotenv": "^10.0.0"
+  },
+  "browserslist": [
+    "last 1 Chrome version"
+  ],
+  "scripts": {
+    "start": "parcel index.html"
+  }
+}
